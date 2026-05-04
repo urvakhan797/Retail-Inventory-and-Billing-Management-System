@@ -1,7 +1,13 @@
 # Retail Inventory and Billing Management System
 
+## Group Members
+
 **Name:** Urva
 **CMS ID:** 023-25-0521
+**Section:** BS AI - B
+
+**Name:** Maria
+**CMS ID:** __________
 **Section:** BS AI - B
 
 ---
@@ -45,11 +51,12 @@ The main purpose of this project is to reduce manual work in retail shops by aut
 ## How to Run
 
 1. Open project folder in terminal
+
 2. Compile all Java files using:
-javac -cp ".;mysql-connector-j-9.7.0.jar" *.java
+   javac -cp ".;mysql-connector-j-9.7.0.jar" *.java
 
 3. Run the project using:
-java -cp ".;mysql-connector-j-9.7.0.jar" Main
+   java -cp ".;mysql-connector-j-9.7.0.jar" Main
 
 4. Make sure MySQL is running before database connection
 
@@ -70,4 +77,3 @@ JDK 8 or above
 ## GitHub Repository Link
 
 (Will be added after final submission)
-
