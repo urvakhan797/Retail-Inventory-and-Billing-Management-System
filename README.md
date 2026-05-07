@@ -7,7 +7,7 @@
 **Section:** BS AI - B
 
 **Name:** Maria
-**CMS ID:** __________
+**CMS ID:** 023-25-0220
 **Section:** BS AI - B
 
 ---
@@ -69,11 +69,10 @@ JDK 8 or above
 ---
 
 ## Video Link
-
-(Will be added after video recording)
+https://drive.google.com/file/d/1iKnQFewY4kl-ujmF-Sb8cUD-LTODAuVe/view?usp=sharing
 
 ---
 
 ## GitHub Repository Link
 
-(Will be added after final submission)
+https://github.com/urvakhan797/Retail-Inventory-and-Billing-Management-System
